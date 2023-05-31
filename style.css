@@ -1,0 +1,16 @@
+/*body{
+    background-image: url(Sliki/lightGray.jpg);
+}*/
+.pb-5{
+    background-image: url(Sliki/lightGray.jpg);
+    align-items: center;
+}
+.fa-square-phone{
+    color: black;
+}
+.col{
+    width: 23rem;
+}
+.app{
+    max-width: 600px;
+}
